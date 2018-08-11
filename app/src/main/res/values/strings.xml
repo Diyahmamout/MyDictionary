@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Dictionary</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+
+    <string name="dictionary_pref">dictionary_pref</string>
+    <string name="loading">Loading</string>
+    <string name="eng_to_ind">English-Indonesia</string>
+    <string name="ind_to_eng">Indonesia-English</string>
+    <string name="eng_to_ind_full">English to Indonesia</string>
+    <string name="ind_to_eng_full">Indonesia to English</string>
+    <string name="cari_kata">Cari Kata</string>
+    <string name="search_word">Search Word</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
